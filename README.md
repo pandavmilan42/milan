@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -13,7 +12,7 @@
             list-style-type:none;
             margin: 20px;
             padding: 50px;
-            margin-left: 750px;
+            margin-left: 500px;
         }
         li{
             display: inline;
